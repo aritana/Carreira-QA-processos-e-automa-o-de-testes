@@ -1,4 +1,4 @@
-# Carreira-QA-processos-e-automa-o-de-testes
+# Carreira-QA-processos-e-automacao-de-testes
 
 ### An react course done on  Alura: https://cursos.alura.com.br/
 
